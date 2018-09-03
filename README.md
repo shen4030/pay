@@ -1,2 +1,2 @@
 # pay
-pay demo
+node.js ali|wx pay demo
